@@ -23,7 +23,7 @@ syn keyword sqStatement		clone delegate resume return this parent constructor
 syn keyword sqStatement		vargc vargv yield class extends
 syn keyword sqConditional	else if switch case default
 syn keyword sqExeption		try catch throw
-syn keyword sqRepeat		for while continue break
+syn keyword sqRepeat		for while continue break foreach
 syn keyword sqOperator		in delete typeof instanceof
 syn keyword sqFunction		function
 syn keyword sqStorageClass	local static
