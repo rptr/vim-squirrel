@@ -30,6 +30,8 @@ syn keyword sqStorageClass	local static const
 syn keyword sqConstant		null
 syn keyword sqBoolean		true false
 
+" keywords to add: base enum in  __LINE__ __FILE__ 
+
 " Comments
 syn region sqCommentL start="\/\/" skip="\\$" end="$" keepend
 syn region sqComment  start=+/\*+ end=+\*/+
