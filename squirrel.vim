@@ -26,7 +26,7 @@ syn keyword sqException		try catch throw
 syn keyword sqRepeat		for while continue break foreach
 syn keyword sqOperator		in delete typeof instanceof
 syn keyword sqFunction		function
-syn keyword sqStorageClass	local static
+syn keyword sqStorageClass	local static const
 syn keyword sqConstant		null
 syn keyword sqBoolean		true false
 
