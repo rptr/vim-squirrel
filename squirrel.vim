@@ -1,10 +1,10 @@
 "------------------------------------------------------------------------------
 " Vim syntax file
 " Language: Squirrel (squirrel-lang.org)
-" Maintainer: YASUHIRO.Kanda <yasuhiro.kanda@gmail.com>
-" Last Change: 08-Mar-2010.
+" Maintainer: rptr <wasmus@zom.bi> 2020; YASUHIRO.Kanda <yasuhiro.kanda@gmail.com> 2010, 2009
+" Last Change: 18-Jan-2020
 " Filenames: *.nut
-" Version: 0.2
+" Version: 0.3
 "------------------------------------------------------------------------------
 " how to install
 "
